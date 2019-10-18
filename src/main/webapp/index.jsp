@@ -21,7 +21,7 @@
 <input type="radio" name="r2" value="sub" />subtraction 
 <br />
  
-<input type="radio" name="r2" value="mul" />subtraction 
+<input type="radio" name="r2" value="mul" />Multiply 
 <br />
 </div>
 <input type="submit" value="submit" />
